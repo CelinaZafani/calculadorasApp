@@ -16,7 +16,7 @@ export class Tab1Page {
     this.resultado = this.primeiroValor + this.segundoValor;
   }
 
-  public subtrair () {
+  public subtrair () { 
     this.resultado = this.primeiroValor - this.segundoValor;
   }
 
